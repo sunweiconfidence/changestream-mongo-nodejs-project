@@ -1,0 +1,27 @@
+{
+  "name": "changestream-mongo-nodejs-project",
+  "version": "1.0.0",
+  "description": "changestream using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunweiconfidence/changestream-mongo-nodejs-project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongo",
+    "changestream"
+  ],
+  "author": "sunwei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunweiconfidence/changestream-mongo-nodejs-project/issues"
+  },
+  "homepage": "https://github.com/sunweiconfidence/changestream-mongo-nodejs-project#readme",
+  "dependencies": {
+    "mongodb": "^3.3.3"
+  }
+}
