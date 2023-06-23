@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/sunweiconfidence/changestream-mongo-nodejs-project#readme",
   "dependencies": {
-    "mongodb": "^3.3.3"
+    "mongodb": "^3.7.4"
   }
 }
